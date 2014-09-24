@@ -1,0 +1,6 @@
+---
+ name: iLib Sample
+ description: An example showing some of iLib's formatting functions
+ authors:
+   - Roy Sutton
+ normalize_css: no
