@@ -1,0 +1,6 @@
+---
+ name: Moonstone Core Controls
+ description: Moonstone versions of the core controls
+ authors:
+   - Roy Sutton
+ normalize_css: no
